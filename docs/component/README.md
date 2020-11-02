@@ -183,7 +183,7 @@ uni统计是优秀的多端统计平台，见[tongji.dcloud.net.cn](https://tong
 
 4、风格扩展
 
-uni ui的默认风格是中型的，与uni-app基础组件风格一致。但它支持[uni.scss](https://uniapp.dcloud.io/collocation/uni-scss)，可以方便的扩展和切换App的风格。
+uni ui的默认风格是中性的，与uni-app基础组件风格一致。但它支持[uni.scss](https://uniapp.dcloud.io/collocation/uni-scss)，可以方便的扩展和切换App的风格。
 
 ui是一种需求非常发散的产品，DCloud官方也无意用uni ui压制第三方ui插件的空间，但官方有义务在性能和跨端方面提供一个开源的标杆给大家。
 
